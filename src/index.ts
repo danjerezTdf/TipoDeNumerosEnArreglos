@@ -1,3 +1,10 @@
+/* Tipos de Números en Arreglo
+• Almacene en un arreglo de dimensión N, números (la
+cantidad es ingresada por el usuario)
+• Muestre cuántos números son positivos, cuántos son
+negativos y cuántos ceros hay
+*/
+
 let largo: number = Number(
   prompt(`Ingrese la cantida de posiciones del arreglo:`)
 );
